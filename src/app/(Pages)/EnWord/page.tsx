@@ -4,7 +4,7 @@ import Keyboard from "@/Components/Keyboard";
 const EnWord = () => {
   return (
     <div className="h-screen">
-      <Keyboard url="http://localhost:3000/api/LanguageEn"/>
+      <Keyboard url="https://wordle-next-js-pi.vercel.app/api/LanguageEn"/>
     </div>
   );
 };
